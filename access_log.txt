@@ -1,0 +1,2 @@
+[2025-04-24 13:56:45] USER: admin – ACTION: SELECT product_name FROM products – STATUS: SUCCESS
+[2025-04-24 13:56:45] USER: admin – ACTION: INSERT INTO products – STATUS: DENIED
